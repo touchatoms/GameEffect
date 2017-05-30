@@ -1,0 +1,34 @@
+<Solution>
+  <PropertyGroup Name="ShapeCrash" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Image Name="border.png" />
+        <Image Name="faction_1.png" />
+        <Image Name="faction_1_active.png" />
+        <Image Name="faction_2.png" />
+        <Image Name="faction_2_active.png" />
+        <Image Name="faction_3.png" />
+        <Image Name="faction_3_active.png" />
+        <Image Name="hexagon.png" />
+        <Project Name="IndexScene.csd" Type="Scene" />
+        <Project Name="Mainbar.csd" Type="Layer" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="Node_004.csd" Type="Node" />
+        <Project Name="Node_009_1.csd" Type="Node" />
+        <Project Name="Node_009_2.csd" Type="Node" />
+        <Project Name="Node_016.csd" Type="Node" />
+        <Project Name="Node_025.csd" Type="Node" />
+        <Project Name="Node_036.csd" Type="Node" />
+        <Project Name="Node_049.csd" Type="Node" />
+        <Project Name="PauseDialog.csd" Type="Node" />
+        <Image Name="pentagon.png" />
+        <Project Name="ResultDialog.csd" Type="Node" />
+        <Image Name="square.png" />
+        <Project Name="TestScene.csd" Type="Scene" />
+        <Image Name="trans_1x1.png" />
+        <Image Name="triangle.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C04CD95EB44FA30E619D48A3128B6516C971F921",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C04CD95EB44FA30E619D48A3128B6516C971F921" : 0,
+    "ECD1581226DC8922F33594FD33E51590EAA68968" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "03EF812C-837A-4A8F-A710-A29362126E54",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C04CD95EB44FA30E619D48A3128B6516C971F921" : "ShapeCrash",
+    "ECD1581226DC8922F33594FD33E51590EAA68968" : "ShapeCrash\/lever"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ShapeCrash",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "frameworks\/runtime-src\/proj.ios_mac\/ShapeCrash.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git.oschina.net:juniper\/ShapeCrash.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C04CD95EB44FA30E619D48A3128B6516C971F921"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git.oschina.net:juniper\/lever.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ECD1581226DC8922F33594FD33E51590EAA68968"
+    }
+  ]
+}
